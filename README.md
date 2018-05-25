@@ -1,3 +1,3 @@
-# hello-world
-gettin' it started
-figuring this whole thing out for first time. taking it in
+##Welcome
+
+Thank you for taking the time and interest to look at my pportfolio. Please allow me to show you some of my porjects.
